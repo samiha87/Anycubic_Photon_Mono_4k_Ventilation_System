@@ -1,5 +1,4 @@
 CAD Design: FreeCAD
-
 PCB Design: KiCAD
 
 CAD Hardware and material:
