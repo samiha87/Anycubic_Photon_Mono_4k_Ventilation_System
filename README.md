@@ -1,13 +1,15 @@
 CAD Design: FreeCAD
 PCB Design: KiCAD
 
-CAD Hardware and material:
+CAD printer and material:
   Printer: Anycubic Vyper
   Print Material: PLA, 0.1 Layer height
   
-Electronics:
-  Seeed Studio nrf52840 Sense, https://wiki.seeedstudio.com/XIAO_BLE/
-  PCBs ordered from: PCB Way
+Hardware:
+ Fan: Noctua NF-A4X10-FLX 5V https://www.amazon.de/-/en/dp/B00NEMGCIA
+ USB-C PCB https://www.aliexpress.com/item/1005004829778290.html
+ Solder fan red wire to VBUS
+ Solder fan black wire to GND
 
 Scaling for screw
   - Screw size for the attachment used M33, scale 0.990
