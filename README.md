@@ -13,4 +13,4 @@ Hardware:
 
 Scaling for screw
   - Screw size for the attachment used M33, scale 0.990
-  - Screw cut for the fastenere used M33, Scale 1.100
+  - Screw cut for the fastener used M33, Scale 1.050
