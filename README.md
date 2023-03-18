@@ -1,5 +1,5 @@
 CAD Design: FreeCAD
-PCB Design: KiCAD
+Slicer: Cura
 
 CAD printer and material:
   Printer: Anycubic Vyper
@@ -11,6 +11,6 @@ Hardware:
  Solder fan red wire to VBUS
  Solder fan black wire to GND
 
-Scaling for screw
+Scaling for printed screw
   - Screw size for the attachment used M33, scale 0.990
   - Screw cut for the fastener used M33, Scale 1.050
